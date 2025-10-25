@@ -30,7 +30,8 @@ Aquí encontrarás una lista de las actividades y ejercicios completados, con en
 * **Actividad Clase 8: TAREA - SEGMENTACIÓN DE CLIENTES CON K-MEANS (Video)**
     * Esta instancia de autoevaluación implementa K-Means para segmentar clientes. El entregable incluye la justificación del K óptimo (K=5) mediante la Inercia y una comparación práctica con K=3 y K=4. El análisis se presenta en un video explicativo.
 
-    * [Enlace a la carpeta de la actividad 8: notebook y csv](Actividad_clase8/jupyter notebook y csv)
+    * [Enlace a la carpeta de la actividad 8: notebook y csv](Actividad_clase8/jupyter_notebook_y_csv)
+
     * [Enlace a la carpeta de la actividad 8: pdf con link de video](Actividad_clase8/docs)
 --------
 
