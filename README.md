@@ -16,11 +16,11 @@ Aquí encontrarás una lista de las actividades y ejercicios completados, con en
 
 * **Actividad 1: ANALISIS REGRESION LINEAL: PIB DE PAISES DE MUNDO**
     * Contiene ejercicio de regresion lineal.
-    * [Enlace a la carpeta de la actividad 1](analisis_pib)
+    * [Enlace a la carpeta de la actividad 1](Actividad_clase4)
 
 * **Actividad 2: ANALISIS REGRESION LOGISITICA: USO DE SISTEMAS OPERATIVOS EM WEB**
     * Esta actividad se enfoca en verificar que sucede cuando realizamos la clasificación (o predicción) de tipo de usuario cuando se altera los valores de las    variables.
-    * [Enlace a la carpeta de la actividad 2](sistemas_operativos_en_web)
+    * [Enlace a la carpeta de la actividad 2](Actividad_clase4)
 
 * **Actividad Clase 5: COMPARACIÓN DE CLASIFICADORES: CÁNCER DE MAMA (Arbol de decisión vs K-NN)**
     * Esta actividad implementa y compara el rendimiento y la interpretabilidad de los modelos **Árbol de Decisión** y **K-Vecinos Más Cercanos** sobre el dataset de Cáncer de Mama de Wisconsin. Se incluye análisis de métricas avanzadas y visualizaciones.
@@ -30,8 +30,14 @@ Aquí encontrarás una lista de las actividades y ejercicios completados, con en
 * **Actividad Clase 8: TAREA - SEGMENTACIÓN DE CLIENTES CON K-MEANS (Video)**
     * Esta instancia de autoevaluación implementa K-Means para segmentar clientes. El entregable incluye la justificación del K óptimo (K=5) mediante la Inercia y una comparación práctica con K=3 y K=4. El análisis se presenta en un video explicativo.
 
-    * [Enlace a la carpeta de la actividad 8: notebook y csv](Actividad_clase8/jupyter_notebook_y_csv)
+    * [Enlace a la carpeta de la actividad 8: notebook y csv](Actividad_clase8)
 
-    * [Enlace a la carpeta de la actividad 8: pdf con link de video](Actividad_clase8/docs)
+    * [Enlace a la carpeta de la actividad 8: pdf con link de video](Actividad_clase8)
+
+* **PARCIAL DE APRENDIZAJE AUTOMATICO**
+   
+    * OBJETIVO: Aplicar técnicas de aprendizaje automático para abordar un problema de nuestro interés utilizando un DATASET relevante.
+    
+    * [Enlace a la carpeta del TRABAJO](PARCIAL_AA_2025) 
 --------
 
